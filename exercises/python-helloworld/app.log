@@ -1,0 +1,8 @@
+2022-08-22 07:35:20,166,  * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment. 
+2022-08-22 07:35:20,167,  * Running on http://192.168.100.165:5000/ (Press CTRL+C to quit) 
+2022-08-22 07:35:21,979, status endpoint was reached 
+2022-08-22 07:35:21,980, 192.168.100.165 - - [22/Aug/2022 07:35:21] "GET /status HTTP/1.1" 200 - 
+2022-08-22 07:35:25,070, 192.168.100.165 - - [22/Aug/2022 07:35:25] "[33mGET /fff HTTP/1.1[0m" 404 - 
+2022-08-22 07:35:30,940, hello endpoint was reached 
+2022-08-22 07:35:30,940, 192.168.100.165 - - [22/Aug/2022 07:35:30] "GET / HTTP/1.1" 200 - 
